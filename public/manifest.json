@@ -1,0 +1,22 @@
+{
+  "name": "Mhmd Market - محمـد ماركت",
+  "short_name": "Mhmd Market",
+  "description": "نظام إدارة السوبر ماركت الاحترافي مع فودافون كاش",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f0f1e",
+  "theme_color": "#f97316",
+  "scope": "/",
+  "categories": ["business", "productivity", "shopping"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
